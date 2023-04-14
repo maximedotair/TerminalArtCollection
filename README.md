@@ -1,6 +1,6 @@
 Run `python script_name.py` with the name of the script you want to run.
 
-[![Love : ASCII and emoji art directly in your command line](https://img.youtube.com/vi/QAs-jFnLdwE/0.jpg)]
+[![Love : ASCII and emoji art directly in your command line]([https://img.youtube.com/vi/QAs-jFnLdwE/0.jpg](https://raw.githubusercontent.com/maximedotair/TerminalArtCollection/main/love.gif))]
 
 ## Contributing
 
